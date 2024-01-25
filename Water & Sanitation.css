@@ -1,0 +1,78 @@
+.navbar{
+    background-color: #333;
+    color: white;
+    justify-content: end;  
+    font-size: 20px;
+}
+.page1{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    background-image: url(./Water\ &\ Sanitation_cleanup.png);
+    height: 408px;
+    background-size: cover;
+}
+.navbar ul li{
+    margin-right: 30px;
+}
+.headbox{
+    background-color: #333;
+}
+.headbox h1{
+    color: aliceblue;
+}
+body>.scarcity{
+    display: flex;
+    flex-wrap: wrap;
+}
+.scarcity{
+    flex-grow: 1;
+    flex-basis: 200;
+    margin-left: 385px;
+}
+.box{
+    width: 500px;
+    flex-grow: 1;
+    flex-basis: 600px;
+}
+
+.sol-head h2{
+    text-align: center;
+}
+h2{
+    margin-top: 65px;
+}
+
+.contentbox{
+    margin: 0px 100px 0px 100px;
+}
+.contentbox img{
+    margin-top: 50px;
+    width: 400px;
+}
+.contentbox p{
+    text-align: justify;
+}
+
+footer {
+background-color: #333;
+color: white;
+justify-content: center;
+padding: 20px;
+display: flex;
+font-size: 24px;
+margin: 0 10px;
+}
+ul li:hover{
+font-size: larger;
+}
+.contentbox{
+display: flex;
+flex-wrap: wrap;
+}
+.contentbox div{
+flex-grow: 1;
+flex-basis: 600px;
+}
+  
